@@ -1,0 +1,131 @@
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T07:37:20.845Z"}
+{"level":"error","message":"\nInvalid `prisma.user.findUnique()` invocation:\n\n\nCan't reach database server at `localhost:3306`\n\nPlease make sure your database server is running at `localhost:3306`.","target":"user.findUnique","timestamp":"2024-12-01T07:37:24.943Z"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T07:37:42.919Z"}
+{"level":"info","message":{"duration":32,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T07:37:43.009Z"}}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T09:18:56.824Z"}
+{"level":"info","message":{"duration":47,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:18:57.019Z"}}
+{"level":"info","message":{"duration":1,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:22:27.044Z"}}
+{"level":"info","message":{"duration":1,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:22:27.046Z"}}
+{"level":"info","message":{"duration":4,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:24:07.725Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:24:36.867Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:24:36.868Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:25:19.430Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:25:19.431Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:26:22.272Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:26:22.272Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:28:03.004Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:28:03.005Z"}}
+{"level":"info","message":{"duration":9,"params":"[\"romanmufi\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:38:32.417Z"}}
+{"level":"info","message":{"duration":6,"params":"[\"romanmufi\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:49:35.200Z"}}
+{"level":"info","message":{"duration":1,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:50:10.524Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"romanmufi\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:50:10.525Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:50:30.862Z"}}
+{"level":"info","message":{"duration":2,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:50:30.865Z"}}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T09:59:41.004Z"}
+{"level":"info","message":{"duration":49,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T09:59:41.206Z"}}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":"user1 is now offline"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T10:02:20.934Z"}
+{"level":"info","message":{"duration":2,"params":"[]","query":"BEGIN","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:02:20.988Z"}}
+{"level":"info","message":{"duration":132,"params":"[\"d70564c6-0917-4740-ba22-78ce32b889a6\",\"awdawdawdawdawd\",\"\",\"user2\",\"2024-12-01 10:02:20.977 UTC\"]","query":"INSERT INTO `chatting_app`.`Message` (`id`,`content`,`senderId`,`receiverId`,`createdAt`) VALUES (?,?,?,?,?)","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:02:21.129Z"}}
+{"level":"info","message":{"duration":3,"params":"[]","query":"ROLLBACK","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:02:21.134Z"}}
+{"level":"error","message":"\nInvalid `prisma.message.create()` invocation:\n\n\nForeign key constraint violated: `senderId`","target":"message.create","timestamp":"2024-12-01T10:02:21.142Z"}
+{"clientVersion":"6.0.0","code":"P2003","level":"error","message":"Error saving message: \nInvalid `prisma.message.create()` invocation:\n\n\nForeign key constraint violated: `senderId`","meta":{"field_name":"senderId","modelName":"Message"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.message.create()` invocation:\n\n\nForeign key constraint violated: `senderId`\n    at Mn.handleRequestError (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:121:7338)\n    at Mn.handleAndLogRequestError (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:121:6663)\n    at Mn.request (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:121:6370)\n    at async l (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async Socket.<anonymous> (file:///D:/portfolio/Magang/chatting%20app/backend-express/src/app/socket.js:29:28)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T10:11:05.941Z"}
+{"level":"info","message":{"duration":6,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:11:05.994Z"}}
+{"level":"info","message":"romanmufid is now online"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":{"duration":0,"params":"[]","query":"BEGIN","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:11:13.512Z"}}
+{"level":"info","message":{"duration":8,"params":"[\"1fff7cc0-24d6-4bed-81ef-c44ed7f68a9f\",\"awdawdawd\",\"user1\",\"user2\",\"2024-12-01 10:11:13.509 UTC\"]","query":"INSERT INTO `chatting_app`.`Message` (`id`,`content`,`senderId`,`receiverId`,`createdAt`) VALUES (?,?,?,?,?)","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:11:13.523Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"ROLLBACK","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:11:13.525Z"}}
+{"level":"error","message":"\nInvalid `prisma.message.create()` invocation:\n\n\nForeign key constraint violated: `senderId`","target":"message.create","timestamp":"2024-12-01T10:11:13.531Z"}
+{"clientVersion":"6.0.0","code":"P2003","level":"error","message":"Error saving message: \nInvalid `prisma.message.create()` invocation:\n\n\nForeign key constraint violated: `senderId`","meta":{"field_name":"senderId","modelName":"Message"},"name":"PrismaClientKnownRequestError","stack":"PrismaClientKnownRequestError: \nInvalid `prisma.message.create()` invocation:\n\n\nForeign key constraint violated: `senderId`\n    at Mn.handleRequestError (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:121:7338)\n    at Mn.handleAndLogRequestError (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:121:6663)\n    at Mn.request (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:121:6370)\n    at async l (D:\\portfolio\\Magang\\chatting app\\backend-express\\node_modules\\@prisma\\client\\runtime\\library.js:130:9633)\n    at async Socket.<anonymous> (file:///D:/portfolio/Magang/chatting%20app/backend-express/src/app/socket.js:29:28)"}
+{"level":"info","message":"Server running on port 5000"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"Starting a mysql pool with 5 connections.","target":"quaint::pooled","timestamp":"2024-12-01T10:15:25.898Z"}
+{"level":"info","message":{"duration":5,"params":"[\"fujiwardini\"]","query":"SELECT COUNT(*) FROM (SELECT `chatting_app`.`User`.`id` FROM `chatting_app`.`User` WHERE `chatting_app`.`User`.`username` = ?) AS `sub`","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:25.918Z"}}
+{"level":"info","message":{"duration":0,"params":"[]","query":"BEGIN","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:26.007Z"}}
+{"level":"info","message":{"duration":12,"params":"[\"61e840a0-e907-47f7-ab29-c0c5fb2c4a49\",\"fujiwardini\",\"$2b$10$QBT.ph7B5WQ8juOvXFL1zeQErisYytPTVe8rTPm1qXl3ntMg9DGfq\"]","query":"INSERT INTO `chatting_app`.`User` (`id`,`username`,`password`) VALUES (?,?,?)","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:26.020Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"61e840a0-e907-47f7-ab29-c0c5fb2c4a49\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username` FROM `chatting_app`.`User` WHERE `chatting_app`.`User`.`id` = ? LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:26.022Z"}}
+{"level":"info","message":{"duration":11,"params":"[]","query":"COMMIT","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:26.033Z"}}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":{"duration":0,"params":"[]","query":"SELECT 1","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:43.359Z"}}
+{"level":"info","message":{"duration":1,"params":"[\"romanmufid\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:43.362Z"}}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"romanmufid is now online"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":{"duration":0,"params":"[\"fujiwardini\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`username` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:48.716Z"}}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"fujiwardini is now online"}
+{"level":"info","message":"A user connected"}
+{"level":"info","message":"user1 is now online"}
+{"level":"info","message":{"duration":1,"params":"[\"user1\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`id` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:52.529Z"}}
+{"level":"info","message":{"duration":0,"params":"[\"user2\",1,0]","query":"SELECT `chatting_app`.`User`.`id`, `chatting_app`.`User`.`username`, `chatting_app`.`User`.`password` FROM `chatting_app`.`User` WHERE (`chatting_app`.`User`.`id` = ? AND 1=1) LIMIT ? OFFSET ?","target":"quaint::connector::metrics","timestamp":"2024-12-01T10:15:52.531Z"}}
